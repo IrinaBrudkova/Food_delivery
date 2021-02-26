@@ -1,1 +1,1 @@
-# Sample food delivery website
+# Food delivery website
